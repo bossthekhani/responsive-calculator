@@ -16,8 +16,10 @@ This project is a responsive calculator built using HTML, CSS, and JavaScript. T
 
 
 <h1>Screen Shot</h1>
-<h1>Live Demo</h1>
-You can try out the live version of the calculator [Here] (http://https://664f50be123037050358fdb7--spectacular-cascaron-7f2b3a.netlify.app).
+
+## Live Demo
+You can try out the live version of the calculator here ([https://your-username.github.io/responsive-calculator/](https://664f50be123037050358fdb7--spectacular-cascaron-7f2b3a.netlify.app)).
+
 <h1>Contact</h1>
 For any inquiries or feedback, you can reach me at muhammadumairkhan4664@gmail.com
 
