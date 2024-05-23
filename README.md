@@ -14,10 +14,12 @@ This project is a responsive calculator built using HTML, CSS, and JavaScript. T
 - **CSS**: Styling for a modern and responsive layout.
 - **JavaScript**: Logic for the calculator's functionality.
 
-##Screen Shot
+
 <h1>Screen Shot</h1>
 <h1>Live Demo</h1>
-<pYou can try out the live version of the calculator <a href="[http://https://664f50be123037050358fdb7--spectacular-cascaron-7f2b3a.netlify.app" target="_blank">here</a>></p>
+You can try out the live version of the calculator <a href="[http://https://664f50be123037050358fdb7--spectacular-cascaron-7f2b3a.netlify.app" target="_blank">here</a>
+<h1>Contact</h1>
+For any inquiries or feedback, you can reach me at muhammadumairkhan4664@gmail.com
 
 <h1>Contribute </h1>
 - Contributions are welcome! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request. Please ensure your changes are well-documented and tested.
