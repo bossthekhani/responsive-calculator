@@ -13,3 +13,13 @@ This project is a responsive calculator built using HTML, CSS, and JavaScript. T
 - **HTML**: Markup structure of the calculator.
 - **CSS**: Styling for a modern and responsive layout.
 - **JavaScript**: Logic for the calculator's functionality.
+
+##Screen Shot
+
+##Live Demo
+- You can try out the live version of the calculator <a href="[http://https://664f50be123037050358fdb7--spectacular-cascaron-7f2b3a.netlify.app" target="_blank">here</a>
+##Contributing
+- Contributions are welcome! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request. Please ensure your changes are well-documented and tested.
+
+## License
+- This project is licensed under the MIT License. See the LICENSE file for more details.
